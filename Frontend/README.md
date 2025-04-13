@@ -1,4 +1,3 @@
-# Depr.ai - [Web App](https://deprai.vercel.app)
 
 Depression web application with 4 deep learning models integrated that deploy on the edge.
 
